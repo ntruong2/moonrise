@@ -1,7 +1,7 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
+url: "https://ntruong2.github.io"
 baseurl: "/moonrise"
 siteIcon: /media/android-chrome-192x192.png
 siteYear: 2020
@@ -11,10 +11,10 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: Anh Em Minecraft
 serverDescription: A Minecraft server where we have lots of fun!
 serverIP: aemine.vn
-useBedrockForOnlineStatus: false
+useBedrockForOnlineStatus: true
 
 
 # Discord information
